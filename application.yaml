@@ -1,1 +1,4 @@
 spring.sleuth.sampler.rate: 100
+spring:
+  zipkin:
+    base-url: http://zipkin-service
